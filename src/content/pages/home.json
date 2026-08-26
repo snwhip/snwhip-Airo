@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "name": "Scott N. Whipple",
+    "title": "Content & Communications",
+    "tagline": "Strategy to execution.",
+    "statement": "15+ years translating complexity into clarity — for the web, for people."
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "label": "Writing",
+      "description": "Long-form, editorial, UX copy, and content that earns attention.",
+      "href": "/writing"
+    },
+    {
+      "id": "cat-2",
+      "label": "Web & Digital Content",
+      "description": "Platform strategy, information architecture, and audience-centered digital experiences.",
+      "href": "/web-digital"
+    },
+    {
+      "id": "cat-3",
+      "label": "Selected Work",
+      "description": "Campaigns, editorial projects, and visual storytelling that moves people.",
+      "href": "/communications"
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk-1",
+      "name": "Content Strategy"
+    },
+    {
+      "id": "sk-2",
+      "name": "Web Writing"
+    },
+    {
+      "id": "sk-3",
+      "name": "UX Writing"
+    },
+    {
+      "id": "sk-4",
+      "name": "Editorial Direction"
+    },
+    {
+      "id": "sk-5",
+      "name": "Accessibility"
+    },
+    {
+      "id": "sk-6",
+      "name": "Digital Platforms"
+    },
+    {
+      "id": "sk-7",
+      "name": "Visual Storytelling"
+    },
+    {
+      "id": "sk-8",
+      "name": "Communications"
+    }
+  ]
+}

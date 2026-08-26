@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "eyebrow": "Portfolio",
+    "heading": "Web & Digital"
+  },
+  "introduction": {
+    "heading": "Web & Digital Content",
+    "body": [
+      {
+        "id": "p-1",
+        "text": "My web and digital work spans content strategy, UX writing, information architecture, accessibility, and the practical craft of writing for screens — from long-form editorial adapted for digital audiences to microcopy, navigation labels, and structured content systems."
+      },
+      {
+        "id": "p-2",
+        "text": "A note on professional work: Much of my recent corporate communications work was created within confidential environments and cannot be publicly reproduced. The examples presented here are therefore a combination of current web projects, selected professional work, and representative writing samples."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "sec-1",
+      "label": "Web Content & Copywriting",
+      "description": "Writing produced for digital platforms — web pages, landing pages, and content designed to inform, guide, and convert.",
+      "items": [
+        {
+          "id": "item-1",
+          "title": "Refreshing a Digital Presence for an Evolving Business",
+          "project": "Career Ventures",
+          "platform": "Wix",
+          "description": "I have supported Career Ventures' website content through significant changes in the owner's business direction and target audience. In 2019, I refined the site's existing content and tone to present a more formal, corporate voice geared toward executives, while updating service pages and adding automated contact forms and Google search/listing capabilities.\n\nMore recently, as the business shifted its focus toward neurodivergent clients, particularly people with ADHD, I revisited the site's tone, imagery, and overall presentation to better support that direction. I also advised the owner on the potential value of social channels and AI-assisted blog development, while recognizing the importance of maintaining his subject-matter voice and involvement in the process.",
+          "roles": ["Web content and editing", "Audience positioning", "Content strategy", "Visual content selection", "SEO", "CMS management", "Digital strategy"],
+          "url": "https://www.careerventures.net/"
+        },
+        {
+          "id": "item-2",
+          "title": "From Print to Digital: Extending a Brand Online",
+          "project": "Hippocrates Children",
+          "platform": "Shopify",
+          "description": "I was initially engaged by Hippocrates Children to design physical greeting cards and trade show materials. As I became involved in the broader marketing effort, I offered strategic recommendations on the brand's digital presence, which led to my taking responsibility for the company's Shopify website.\n\nI learned the Shopify platform and underlying code to address a responsive logo-sizing issue and improve the site's presentation across screen sizes. I also introduced the client to AI-assisted image generation as a way to create studio-quality product photography for the greeting cards. I developed an initial prompt for her to use, then helped implement the resulting images by uploading and linking them throughout the site.",
+          "roles": ["Visual communication", "Marketing strategy", "Shopify CMS", "Responsive web implementation", "AI-assisted image development", "Digital content management"],
+          "url": "https://hippocrateschildren.com/"
+        },
+        {
+          "id": "item-3",
+          "title": "Giving an Artist's Work a Digital Voice",
+          "project": "Rob Westerberg",
+          "platform": "GoDaddy Airo",
+          "description": "Rob Westerberg engaged me to create a website to showcase his artwork. After interviewing him about his work and vision, I developed the site's brand and visual direction and created a gallery-style portfolio using GoDaddy Airo and its beta Website Creator.\n\nThe project involved translating an artist's personal vision into a concise digital identity and organizing his work into a straightforward portfolio experience designed to let the artwork take center stage.",
+          "roles": ["Brand development", "Stakeholder interview", "Web design", "Content organization", "AI-assisted web development", "Digital portfolio strategy"],
+          "url": "https://robwesterberg.com/"
+        }
+      ]
+    }
+  ]
+}

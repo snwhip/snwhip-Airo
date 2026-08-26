@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "eyebrow": "Portfolio",
+    "heading": "Writing",
+    "intro": "Selected writing samples across editorial, web content, UX, and communications work.",
+    "confidentialityNote": "A note on professional work: Much of my recent corporate communications work was created within confidential environments and cannot be publicly reproduced. The examples presented here are therefore a combination of current web projects, selected professional work, and representative writing samples."
+  },
+  "introduction": {
+    "heading": "Writing & Editorial",
+    "body": [
+      { "id": "p-1", "text": "Writing has been a constant thread throughout my communications career—from feature-style storytelling and business analysis to web content, editing, and concise digital messaging." },
+      { "id": "p-2", "text": "A note on professional work: Much of my recent corporate communications work was created within confidential environments and cannot be publicly reproduced. The examples presented here are therefore a combination of current web projects, selected professional work, and representative writing samples." }
+    ]
+  },
+  "sections": [
+    {
+      "id": "sec-1",
+      "label": "Selected Writing",
+      "description": "Archival and independent writing — reported pieces, essays, and editorial work produced for publication.",
+      "items": [
+        {
+          "id": "item-0",
+          "title": "Farscape: Intelligent Fiction",
+          "type": "Cultural / Critical Writing",
+          "year": "2004",
+          "description": "A critical examination of how Farscape transforms familiar science-fiction conventions through inventive storytelling, character interaction, humor, and an unusually candid approach to human experience.",
+          "tags": ["Cultural", "Critical Writing", "Television"],
+          "sampleKey": "farscape-intelligent-fiction"
+        },
+        {
+          "id": "item-1",
+          "title": "Leaders and Effective Leadership",
+          "type": "Feature / Profile Writing",
+          "year": "2005",
+          "description": "A feature-style profile examining Elizabeth Birch's leadership, communication style, and ability to inspire and persuade diverse audiences. The piece combines personal observation, research, narrative, and analysis to explore the qualities of effective leadership.",
+          "tags": ["Feature", "Profile", "Leadership"],
+          "sampleKey": "leaders-and-effective-leadership"
+        },
+        {
+          "id": "item-2",
+          "title": "Apple's New Gravity",
+          "type": "Business & Technology Analysis",
+          "year": "2007",
+          "description": "A research-driven examination of Apple's leadership, innovation strategy, organizational structure, competitive environment, brand, and approach to global growth. The piece demonstrates research, synthesis, and the translation of complex business and technology subjects for a general audience.",
+          "tags": ["Business", "Technology", "Analysis"],
+          "sampleKey": "apples-new-gravity"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "heading": "Selected Work"
+  },
+  "body": [
+    {
+      "id": "p-1",
+      "text": "My communications background has always been visual as well as verbal. Across corporate communications, marketing and independent client work, I've used design to help organize information, reinforce ideas and make complex content easier to understand."
+    },
+    {
+      "id": "p-2",
+      "text": "That work spans brand and campaign communications, presentations, marketing collateral, digital content, photography and visual storytelling. The projects collected on Behance offer a broader look at that side of my work."
+    }
+  ],
+  "cta": {
+    "label": "View Portfolio on Behance",
+    "href": "https://www.behance.net/snwhip"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "heading": "Making complicated things easier to understand."
+  },
+  "body": [
+    {
+      "id": "p-1",
+      "text": "My career in communications began with a marketing internship at Jacob's Pillow, where I wrote press releases and created advertising and publication materials. From there, I moved into local newspapers, working across editing, advertising and visual production—an early education in how words, images, audience and limited space work together."
+    },
+    {
+      "id": "p-2",
+      "text": "That foundation has followed me throughout my career. I've worked in healthcare, pharmaceuticals, corporate communications and independent consulting, creating everything from executive communications and employee newsletters to intranets, websites, presentations, video and visual campaigns."
+    },
+    {
+      "id": "p-3",
+      "text": "At Bristol Myers Squibb, my work increasingly centered on digital communications and content strategy. I developed and managed content for a global organization, led the redesign and governance of a SharePoint intranet, and translated complex information for audiences with very different levels of technical knowledge."
+    },
+    {
+      "id": "p-4",
+      "text": "My independent work has given me another perspective: working directly with clients to understand what they're trying to accomplish, then finding the right combination of words, structure, imagery and technology to get them there."
+    },
+    {
+      "id": "p-5",
+      "text": "I'm a writer and editor, but I'm also a designer and builder. I understand that a headline doesn't exist independently of the page around it, that good navigation is a form of communication, and that sometimes three words require as much thought as three paragraphs."
+    },
+    {
+      "id": "p-6",
+      "text": "AI has become another tool in that process. I use it to explore possibilities, accelerate production and solve problems—but with the same editorial judgment I bring to any other communications tool. The person behind the work still needs to understand the audience, recognize what's true, and know when the machine got it wrong."
+    }
+  ],
+  "closing": "The common thread is simple: translating complexity into clarity—for the web, for people."
+}
