@@ -60,7 +60,7 @@ export default function HomePage() {
             .hero-artwork { opacity: 0.30; }
             @media (min-width: 640px) { .hero-artwork { opacity: 0.45; } }
           `}</style>
-          <img src="img src="/airo-assets/uploads/uploads-hero-qkr67se7m1-1786994387999-file-tgkhawg0rf-7dfa8915.png" style={{
+          <img src="/airo-assets/uploads/uploads-hero-qkr67se7m1-1786994387999-file-tgkhawg0rf-7dfa8915.png" alt="" aria-hidden="true" className="hero-artwork pointer-events-none absolute" style={{
           top: '-6%',
           right: '-2%',
           width: '58%',
